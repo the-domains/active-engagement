@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T18:44:01.778Z'
-dateModified: '2016-03-07T18:43:40.841Z'
+datePublished: '2016-03-07T18:44:34.251Z'
+dateModified: '2016-03-07T18:44:05.153Z'
 title: Give.Works
 author: []
+sourcePath: _posts/2016-03-07-giveworks.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-giveworks.md
-published: true
 url: giveworks/index.html
 _type: Article
 
