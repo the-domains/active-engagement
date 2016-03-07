@@ -1,0 +1,28 @@
+name: Active Engagement
+favicon: null
+layout_spectrum: 0.31288663926534355
+typography_spectrum: 0.3037576279602945
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6336800574790686
+  lightness: 0.08164409198798239
+  saturation: 0.8843063784297556
+  rhythmicContrast: 0.7014860087074339
+purpose: []
