@@ -4,11 +4,18 @@
         <description><![CDATA[Active Engagement]]></description>
         <link>https://thegrid.ai/active-engagement/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 17:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 17:38:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/active-engagement/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/60e18084-cd69-45fe-bf5d-b4c9ec821a78.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/active-engagement/be53b540-3580-4e5e-8e90-f5a6de0d4b96/index.html</link>
+            <guid isPermaLink="false">be53b540-3580-4e5e-8e90-f5a6de0d4b96</guid>
+            <pubDate>Mon, 07 Mar 2016 17:38:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Our Clients]]></title>
-            <description><![CDATA[<h1>Our Clients</h1>]]></description>
+            <description><![CDATA[<article><h1>Our Clients</h1><p>America’s Liberty PAC</p></article>]]></description>
             <link>https://thegrid.ai/active-engagement/b4219d55-afe2-4b20-9a4f-de12a5b3a4ab/index.html</link>
             <guid isPermaLink="false">b4219d55-afe2-4b20-9a4f-de12a5b3a4ab</guid>
             <pubDate>Mon, 07 Mar 2016 17:37:30 GMT</pubDate>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/active-engagement/jd-norman/index.html</link>
             <guid isPermaLink="false">970a2493-b56b-4758-9f6e-db08237ae434</guid>
             <pubDate>Mon, 07 Mar 2016 17:21:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/60e18084-cd69-45fe-bf5d-b4c9ec821a78.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/active-engagement/be53b540-3580-4e5e-8e90-f5a6de0d4b96/index.html</link>
-            <guid isPermaLink="false">be53b540-3580-4e5e-8e90-f5a6de0d4b96</guid>
-            <pubDate>Mon, 07 Mar 2016 17:03:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
