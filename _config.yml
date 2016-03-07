@@ -1,6 +1,6 @@
 name: Active Engagement
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.84975
 typography_spectrum: 1
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#b2b6b7'
     - '#990100'
     - '#555555'
-  brandStrength: 0.625
-  lightness: 0.6875
-  saturation: 0.875
-  rhythmicContrast: 0.75
+  brandStrength: 0.75
+  lightness: 1
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
