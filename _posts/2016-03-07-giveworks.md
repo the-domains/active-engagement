@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T18:48:53.873Z'
-dateModified: '2016-03-07T18:47:45.011Z'
-title: Give.Works
-author: []
-sourcePath: _posts/2016-03-07-giveworks.md
-published: true
+datePublished: '2016-03-07T18:50:23.807Z'
+dateModified: '2016-03-07T18:50:23.546Z'
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+title: Give.Works
+author: []
+sourcePath: _posts/2016-03-07-giveworks.md
+published: true
 url: giveworks/index.html
 _type: Article
 
 ---
-# [Give.Works][0]
+# Give.Works
 
-Seamless, Secure and Super Simple
+## Seamless, Secure and Super Simple
 
 The GiveWorks platform looks and functions like a page on your website. Site visitors can make their donations in mere seconds, and the money goes directly into your bank account. Achieving your fundraising goals has never been easier ... for you AND your supporters!
 
@@ -35,6 +35,3 @@ Simultaneously run and track dozens of surveys, petitions, sign-up campaigns for
 ## Low Fees, More Money For You
 
 No set up fees\*, no monthly hosting fee, no management fees. Pricing is low and simple: 2.9% and $1 per successful transaction. Our pricing is WAY below industry standards!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be5ccb51-a301-4f1f-841a-63be4e74f292.jpg)
-
-[0]: www.give.works
