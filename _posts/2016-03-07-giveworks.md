@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T18:44:34.251Z'
-dateModified: '2016-03-07T18:44:05.153Z'
+datePublished: '2016-03-07T18:45:50.519Z'
+dateModified: '2016-03-07T18:44:37.267Z'
 title: Give.Works
 author: []
 sourcePath: _posts/2016-03-07-giveworks.md
