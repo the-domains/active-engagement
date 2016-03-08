@@ -4,7 +4,7 @@
         <description><![CDATA[Active Engagement]]></description>
         <link>https://thegrid.ai/active-engagement/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 14:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 14:29:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/active-engagement/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/active-engagement/b88b5e8d-76f3-4abf-8d15-58074abe5719/index.html</link>
             <guid isPermaLink="false">b88b5e8d-76f3-4abf-8d15-58074abe5719</guid>
             <pubDate>Mon, 07 Mar 2016 18:35:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[List Building]]></title>
+            <description><![CDATA[<article><h1>List Building</h1><p>An organization's or a campaign's email house file can be worth a fortune in supporter engagement, donations, and list rental income. But building a quality list can be confusing and frustrating. ActiveEngagement has launched massive list building efforts for some of the biggest names on the right side of the aisle. We know how to maximize your return on investment while minimizing your financial exposure.</p></article>]]></description>
+            <link>https://thegrid.ai/active-engagement/list-building/index.html</link>
+            <guid isPermaLink="false">29d5789c-aaed-48fd-a458-3090d08518a4</guid>
+            <pubDate>Tue, 08 Mar 2016 14:29:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Email House File]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/active-engagement/what-we-do/index.html</link>
             <guid isPermaLink="false">0dffb33c-6a14-4089-8226-8709160122a1</guid>
             <pubDate>Mon, 07 Mar 2016 18:27:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brian Davis]]></title>
-            <description><![CDATA[<article><h1>Brian Davis</h1><h2>Chief Technology Officer</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c42251b61342733335123c1016db5771740d6f92.jpg"></article>]]></description>
-            <link>https://thegrid.ai/active-engagement/c75c4bc6-dd6a-434c-8e94-2b1bb330cd59/index.html</link>
-            <guid isPermaLink="false">c75c4bc6-dd6a-434c-8e94-2b1bb330cd59</guid>
-            <pubDate>Mon, 07 Mar 2016 18:22:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
